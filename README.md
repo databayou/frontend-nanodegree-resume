@@ -1,8 +1,6 @@
 # frontend-nanodegree-resume
 Interactive Resume
 
-Original code part JavaScript course from Udacity's Front End Web Development Nanodegree. This represents my online 
-resume using their code.
+Original code part of the JavaScript course from Udacity's Front End Web Development Nanodegree. 
 
-Resume hosted on github at databayou.github.io/frontend-nanodegree-resume!
 ![alt text](databayou/frontend-nanodegree-resume/images/Resume_Luz.png "Databayou Resume")
