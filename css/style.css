@@ -61,6 +61,17 @@ h5 {
 
 }
 
+h7 {
+  font-weight: bold;
+      margin: auto;
+    width: 60%;
+  font-size: 18px;
+  color: #999;
+  line-height: 10px;
+  padding: 5px;
+  text-align: center;
+}
+
 
 .date-text {
   font-style: italic;
